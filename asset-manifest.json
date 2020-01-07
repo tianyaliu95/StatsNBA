@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/StatsNBA/static/css/main.caa73319.chunk.css",
-    "main.js": "/StatsNBA/static/js/main.2aedcfd2.chunk.js",
-    "main.js.map": "/StatsNBA/static/js/main.2aedcfd2.chunk.js.map",
-    "runtime-main.js": "/StatsNBA/static/js/runtime-main.a4ae4d32.js",
-    "runtime-main.js.map": "/StatsNBA/static/js/runtime-main.a4ae4d32.js.map",
-    "static/css/2.0ddc80b1.chunk.css": "/StatsNBA/static/css/2.0ddc80b1.chunk.css",
-    "static/js/2.e77112f8.chunk.js": "/StatsNBA/static/js/2.e77112f8.chunk.js",
-    "static/js/2.e77112f8.chunk.js.map": "/StatsNBA/static/js/2.e77112f8.chunk.js.map",
+    "main.css": "/StatsNBA/static/css/main.d1a68cc3.chunk.css",
+    "main.js": "/StatsNBA/static/js/main.e5a11d65.chunk.js",
+    "main.js.map": "/StatsNBA/static/js/main.e5a11d65.chunk.js.map",
+    "runtime-main.js": "/StatsNBA/static/js/runtime-main.a08914fc.js",
+    "runtime-main.js.map": "/StatsNBA/static/js/runtime-main.a08914fc.js.map",
+    "static/css/2.aa7fcd32.chunk.css": "/StatsNBA/static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.a9adf5f7.chunk.js": "/StatsNBA/static/js/2.a9adf5f7.chunk.js",
+    "static/js/2.a9adf5f7.chunk.js.map": "/StatsNBA/static/js/2.a9adf5f7.chunk.js.map",
     "index.html": "/StatsNBA/index.html",
-    "precache-manifest.9a9c3e1a631996e46cd63c9e650b8499.js": "/StatsNBA/precache-manifest.9a9c3e1a631996e46cd63c9e650b8499.js",
+    "precache-manifest.6a6d9fd83b76e18855ca7739f50fd200.js": "/StatsNBA/precache-manifest.6a6d9fd83b76e18855ca7739f50fd200.js",
     "service-worker.js": "/StatsNBA/service-worker.js",
-    "static/css/2.0ddc80b1.chunk.css.map": "/StatsNBA/static/css/2.0ddc80b1.chunk.css.map",
-    "static/css/main.caa73319.chunk.css.map": "/StatsNBA/static/css/main.caa73319.chunk.css.map",
-    "static/js/2.e77112f8.chunk.js.LICENSE": "/StatsNBA/static/js/2.e77112f8.chunk.js.LICENSE",
+    "static/css/2.aa7fcd32.chunk.css.map": "/StatsNBA/static/css/2.aa7fcd32.chunk.css.map",
+    "static/css/main.d1a68cc3.chunk.css.map": "/StatsNBA/static/css/main.d1a68cc3.chunk.css.map",
     "static/media/App.css": "/StatsNBA/static/media/background.c4b7f268.jpg",
     "static/media/nba-logoman-word-white.svg": "/StatsNBA/static/media/nba-logoman-word-white.9470e2d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4ae4d32.js",
-    "static/css/2.0ddc80b1.chunk.css",
-    "static/js/2.e77112f8.chunk.js",
-    "static/css/main.caa73319.chunk.css",
-    "static/js/main.2aedcfd2.chunk.js"
+    "static/js/runtime-main.a08914fc.js",
+    "static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.a9adf5f7.chunk.js",
+    "static/css/main.d1a68cc3.chunk.css",
+    "static/js/main.e5a11d65.chunk.js"
   ]
 }
