@@ -15,8 +15,8 @@
 
 <b>Demo (GIF)</b>
 <br />
-![Demo](/demo/ezgif.com-video-to-gif.gif)
-<img src="/demo/ezgif.com-video-to-gif.gif" width="50">
+<!-- ![Demo](/demo/ezgif.com-video-to-gif.gif) -->
+<img src="/demo/ezgif.com-video-to-gif.gif" width="500">
 
 <hr />
 
