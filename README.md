@@ -7,6 +7,7 @@
 ## Demo (GIF)
 <br />
 ![Demo](https://github.com/tianyaliu95/StatsNBA/blob/master/demo/ezgif.com-video-to-gif.gif)
+![Demo (version without TalkBack)](https://github.com/tianyaliu95/VisualRecognitionApp/blob/master/ProjectDemo%20(gif%20no%20sound).gif)
 <br />
 <hr />
 Supported features include:
