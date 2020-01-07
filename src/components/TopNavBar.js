@@ -5,7 +5,7 @@ export class TopNavBar extends React.Component {
     render() {
         return (
             <header className="App-header">	
-                <a href="http://www.nba.com">
+                <a href="https://www.nba.com">
                 	<img src={logo} className="App-logo" alt="logo" />
                 </a>
                 <span className="text">Player Stats Center</span>
