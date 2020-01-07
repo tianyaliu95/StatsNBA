@@ -1,0 +1,16 @@
+.data-view {
+    width: 800px;
+    background-color: white;
+    /*border-radius: 0px;*/
+}
+
+.filters {
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+.tooltip {
+	margin-left: 150px;
+    margin-bottom: 20px;	
+}
+

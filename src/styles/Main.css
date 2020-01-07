@@ -1,0 +1,12 @@
+.main {
+    margin: auto;
+    margin-bottom: 150px;
+    width: 1050px;
+}
+
+.player {
+    display: flex;
+    border: 3px solid #ccc;
+    box-shadow: 5px 10px 10px #888;
+    border-radius: 10px;
+}

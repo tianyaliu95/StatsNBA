@@ -1,0 +1,63 @@
+.profile {
+    width: 250px;
+    background: #ccc;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.profile div {
+    box-sizing: border-box;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+.profile-entry {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px 10px 25px;
+}
+
+.profile-entry-left {
+    text-align: left;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.profile-entry-right {
+    text-align: right;
+    padding-right: 15px;
+    flex: 1;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.profile-pic {
+    width: 80%;
+    margin-bottom: 15px;
+}
+
+.team-logo {
+    width: 50%;
+}
+
+.player-name {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.team {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0px 0px 0px 25px;
+}

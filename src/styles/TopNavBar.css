@@ -1,0 +1,21 @@
+.App-header {
+    height: 55px;
+    background-color: #1D428A;
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+    box-shadow: -1px 0 5px 0 #1D428A;
+}
+
+.App-logo {
+    height: 30px;
+    float: left;
+    padding-left: 50px;
+}
+
+.text {
+	color: whitesmoke;
+	margin-left: 50px;
+	font-size: 20px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
