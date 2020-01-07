@@ -5,11 +5,11 @@
 <img src="https://github.com/tianyaliu95/StatsNBA/blob/master/demo/demo1.png" alt="demo">
 
 ## Demo (GIF)
-<br />
-![Demo](https://github.com/tianyaliu95/StatsNBA/blob/master/demo/ezgif.com-video-to-gif.gif)
-![Demo (version without TalkBack)](https://github.com/tianyaliu95/VisualRecognitionApp/blob/master/ProjectDemo%20(gif%20no%20sound).gif)
+![Demo](/demo/ezgif.com-video-to-gif.gif)
+
 <br />
 <hr />
+
 Supported features include:
 <ul>
 	<li>Two customized plot options(hexbin plot & scatter plot) for shot charts visualization</li>
